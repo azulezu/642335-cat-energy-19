@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анна Зуева](https://up.htmlacademy.ru/adaptive/19/user/642335).
-* Наставник: `Неизвестно`.
+* Наставник: <img width="20" height="20" alt="@keksobot" src="https://avatars2.githubusercontent.com/u/11215289"> ** Кексобот**.
+
 
 ---
 
